@@ -1,0 +1,9 @@
+<templateSet group="Android">
+  <template name="consts" value="private static final String $name$ = $value$;" description="Define android style String const" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
