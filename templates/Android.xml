@@ -6,9 +6,19 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="tryc" value="try {&#10;&#10;} catch(Exception e) {&#10;    // TODO noops&#10;}" description="Try and catch exception" toReformat="true" toShortenFQNames="true">
+  <template name="tryc" value="try {&#10;    $END$&#10;} catch(Exception e) {&#10;    // TODO noops&#10;}" description="Try and catch exception" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_EXPRESSION" value="true" />
+    </context>
+  </template>
+  <template name="rtt" value="return true;" description="Return true" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rtf" value="return false;" description="Return false" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
