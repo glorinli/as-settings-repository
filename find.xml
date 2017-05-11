@@ -14,6 +14,7 @@
       <mask>*.mxml</mask>
       <mask>*.java</mask>
       <mask>*.pro</mask>
+      <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
 </application>
