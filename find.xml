@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="customScope" value="File '.../app/src/main/res/values/strings.xml - [app]'" />
+    <option name="defaultScopeName" value="File '.../app/src/main/res/values/strings.xml - [app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/src/main/res/values/strings.xml - [app]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
