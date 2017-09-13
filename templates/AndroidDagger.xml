@@ -1,0 +1,8 @@
+<templateSet group="AndroidDagger">
+  <template name="daggera" value="@dagger.Component(dependencies = App.Component.class, modules = Module.class)&#10;@DaggerScope(Component.class)&#10;public interface Component extends App.Dependencies {&#10;    void inject($className$ activity);&#10;}&#10;&#10;@dagger.Module&#10;public class Module {&#10;}" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="className" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
