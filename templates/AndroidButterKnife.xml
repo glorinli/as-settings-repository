@@ -1,0 +1,8 @@
+<templateSet group="AndroidButterKnife">
+  <template name="dclick" value="@OnClick({$IDS$})&#10;void onClickView(View v) {&#10;    switch (v.getId()) {&#10;    }&#10;}" description="Define click method" toReformat="false" toShortenFQNames="true">
+    <variable name="IDS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
