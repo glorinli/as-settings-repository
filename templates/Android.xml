@@ -33,7 +33,5 @@
       <option name="JAVA_EXPRESSION" value="true" />
     </context>
   </template>
-  <template name="fs" value="false" description="false" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="fs" value="false" description="false" toReformat="true" toShortenFQNames="true" />
 </templateSet>
