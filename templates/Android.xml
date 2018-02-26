@@ -34,4 +34,10 @@
     </context>
   </template>
   <template name="fs" value="false" description="false" toReformat="true" toShortenFQNames="true" />
+  <template name="dlistener" value="public interface $CLASS_NAME$ {&#10;        &#10;    }&#10;&#10;    private $CLASS_NAME$ m$CLASS_NAME$;&#10;&#10;    public void set$CLASS_NAME$($CLASS_NAME$ listener) {&#10;        m$CLASS_NAME$ = listener;&#10;    }" description="Define an listener interface" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
