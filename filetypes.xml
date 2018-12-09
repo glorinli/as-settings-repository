@@ -4,10 +4,10 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
       <mapping pattern="webpmux_utils.c" type="PLAIN_TEXT" />
-      <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="keystore" type="PLAIN_TEXT" />
+      <mapping ext="ogg" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
