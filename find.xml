@@ -14,5 +14,6 @@
     <mask>*.java</mask>
     <mask>*.conf</mask>
     <mask>*.gradle</mask>
+    <mask>*.perperties</mask>
   </component>
 </application>
