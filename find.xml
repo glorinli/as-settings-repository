@@ -11,9 +11,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.conf</mask>
     <mask>*.gradle</mask>
     <mask>*.perperties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
