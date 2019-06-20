@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.conf" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,7 +14,7 @@
     <mask>*.perperties</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.conf</mask>
     <mask>*.xml</mask>
+    <mask>*.conf</mask>
   </component>
 </application>
