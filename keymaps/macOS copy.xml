@@ -6,6 +6,14 @@
     <keyboard-shortcut first-keystroke="meta q" />
   </action>
   <action id="Exit" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="meta alt f12" />
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
   </action>
