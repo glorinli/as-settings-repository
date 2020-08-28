@@ -6,6 +6,7 @@
       <mapping ext="webp" type="Image" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="lama_home_fake_data" type="PLAIN_TEXT" />
+      <mapping pattern="connected" type="PLAIN_TEXT" />
       <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
       <mapping pattern="ybb_bottom_left_right_corner_yq_orange_a_005.xml" type="PLAIN_TEXT" />
       <mapping pattern="webpmux_utils.c" type="PLAIN_TEXT" />
