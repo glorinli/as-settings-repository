@@ -15,7 +15,7 @@
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="Vcs.ShowHistoryForBlock">
-    <mouse-shortcut keystroke="meta button3" />
+    <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta e" />
