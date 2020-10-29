@@ -14,8 +14,10 @@
     <mask>*.conf</mask>
     <mask>*.properties</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
+    <mask>stable*</mask>
+    <mask>*.txt</mask>
   </component>
 </application>
