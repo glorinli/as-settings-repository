@@ -1,0 +1,12 @@
+<templateSet group="GlorinKt">
+  <template name="rtf" value="return false" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="rtt" value="return true" description="Return true" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
