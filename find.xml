@@ -12,7 +12,6 @@
     <mask>*.perperties</mask>
     <mask>*.aidl</mask>
     <mask>*.conf</mask>
-    <mask>*.kt</mask>
     <mask>stable*</mask>
     <mask>*.txt</mask>
     <mask>*txt</mask>
@@ -20,5 +19,6 @@
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
