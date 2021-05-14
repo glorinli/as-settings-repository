@@ -16,9 +16,9 @@
     <mask>*.txt</mask>
     <mask>*txt</mask>
     <mask>*.properties</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
