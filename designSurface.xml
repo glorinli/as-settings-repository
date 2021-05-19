@@ -6,7 +6,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="libuikit/src/main/res/layout/base_loadmore_context_recyclerview.xml" value="0.1" />
         <entry key="ui/src/main/res/layout/contact_search_loading_view.xml" value="0.4" />
-        <entry key="ui/src/main/res/layout/contacts_selector_content_view.xml" value="0.20520833333333333" />
+        <entry key="ui/src/main/res/layout/contacts_selector_content_view.xml" value="0.31431159420289856" />
         <entry key="ui/src/main/res/layout/home_search_fragment.xml" value="0.1945288753799392" />
         <entry key="ui/src/main/res/layout/local_search_fragment.xml" value="0.23324275362318841" />
         <entry key="ui/src/main/res/layout/posts_fragment.xml" value="0.246875" />
