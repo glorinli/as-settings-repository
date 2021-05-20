@@ -5,6 +5,7 @@
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="libuikit/src/main/res/layout/base_loadmore_context_recyclerview.xml" value="0.1" />
+        <entry key="ui/src/main/res/layout/calendar_pre_selection_layout.xml" value="0.1897644927536232" />
         <entry key="ui/src/main/res/layout/contact_search_loading_view.xml" value="0.4" />
         <entry key="ui/src/main/res/layout/contacts_selector_content_view.xml" value="0.31431159420289856" />
         <entry key="ui/src/main/res/layout/contacts_selector_fragment.xml" value="0.22447916666666667" />
@@ -17,7 +18,10 @@
         <entry key="ui/src/main/res/layout/profile_loading_view.xml" value="0.25104166666666666" />
         <entry key="ui/src/main/res/layout/search_contact_empty_layout.xml" value="0.22447916666666667" />
         <entry key="ui/src/main/res/layout/search_result_section_item.xml" value="0.4" />
+        <entry key="ui/src/main/res/layout/setting_preference_beta.xml" value="0.4" />
+        <entry key="ui/src/main/res/layout/setting_preference_content_beta.xml" value="0.4" />
         <entry key="ui/src/main/res/layout/unread_indicator_view.xml" value="0.1" />
+        <entry key="ui/src/main/res/xml/rcv_audio_and_video_preferences.xml" value="0.4" />
       </map>
     </option>
   </component>
