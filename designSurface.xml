@@ -3,7 +3,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.22447916666666667" />
         <entry key="libuikit/src/main/res/layout/base_loadmore_context_recyclerview.xml" value="0.1" />
         <entry key="ui/src/main/res/layout/calendar_pre_selection_layout.xml" value="0.1897644927536232" />
         <entry key="ui/src/main/res/layout/contact_search_loading_view.xml" value="0.4" />
