@@ -9,7 +9,7 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="newrobot" value="class $PREFIX$GivenRobot : BaseGivenRobot() {&#10;    infix fun launch(block: $PREFIX$WhenRobot.() -&gt; Unit): $PREFIX$WhenRobot {&#10;        return $PREFIX$WhenRobot().apply(block)&#10;    }&#10;}&#10;&#10;class $PREFIX$WhenRobot : BaseWhenRobot() {&#10;    infix fun check(block: $PREFIX$ThenRobot.() -&gt; Unit): $PREFIX$ThenRobot {&#10;        return $PREFIX$ThenRobot().apply(block)&#10;    }&#10;}&#10;&#10;class $PREFIX$ThenRobot : BaseThenRobot() {&#10;&#10;}" description="New test robot" toReformat="false" toShortenFQNames="true">
+  <template name="newrobot" value="import com.glip.ut.base.BaseGivenRobot&#10;import com.glip.ut.base.BaseThenRobot&#10;import com.glip.ut.base.BaseWhenRobot&#10;&#10;class $PREFIX$GivenRobot : BaseGivenRobot() {&#10;    infix fun launch(block: $PREFIX$WhenRobot.() -&gt; Unit): $PREFIX$WhenRobot {&#10;        return $PREFIX$WhenRobot().apply(block)&#10;    }&#10;}&#10;&#10;class $PREFIX$WhenRobot : BaseWhenRobot() {&#10;    infix fun check(block: $PREFIX$ThenRobot.() -&gt; Unit): $PREFIX$ThenRobot {&#10;        return $PREFIX$ThenRobot().apply(block)&#10;    }&#10;}&#10;&#10;class $PREFIX$ThenRobot : BaseThenRobot() {&#10;&#10;}" description="New test robot" toReformat="false" toShortenFQNames="true">
     <variable name="PREFIX" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
