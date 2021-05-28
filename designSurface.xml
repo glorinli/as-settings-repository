@@ -6,6 +6,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
         <entry key="app/src/main/res/layout/activity_second.xml" value="0.22447916666666667" />
         <entry key="libuikit/src/main/res/layout/base_activity.xml" value="0.21354166666666666" />
+        <entry key="libuikit/src/main/res/layout/base_banner_container_view.xml" value="0.22871376811594202" />
         <entry key="libuikit/src/main/res/layout/base_content_container_view.xml" value="0.21354166666666666" />
         <entry key="libuikit/src/main/res/layout/base_loadmore_context_recyclerview.xml" value="0.1" />
         <entry key="ui/src/main/res/layout/calendar_pre_selection_layout.xml" value="0.1897644927536232" />
@@ -20,6 +21,7 @@
         <entry key="ui/src/main/res/layout/group_profile_fragment.xml" value="0.24479166666666666" />
         <entry key="ui/src/main/res/layout/home_search_fragment.xml" value="0.1945288753799392" />
         <entry key="ui/src/main/res/layout/local_search_fragment.xml" value="0.23324275362318841" />
+        <entry key="ui/src/main/res/layout/post_conversation_activity.xml" value="0.1945288753799392" />
         <entry key="ui/src/main/res/layout/posts_fragment.xml" value="0.246875" />
         <entry key="ui/src/main/res/layout/profile_activity.xml" value="0.25104166666666666" />
         <entry key="ui/src/main/res/layout/profile_app_bar_view.xml" value="0.5" />
