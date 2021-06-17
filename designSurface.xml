@@ -8,7 +8,7 @@
         <entry key="libuikit/src/main/res/drawable/btn_rect_primary.xml" value="0.15729166666666666" />
         <entry key="libuikit/src/main/res/layout/base_activity.xml" value="0.21354166666666666" />
         <entry key="libuikit/src/main/res/layout/base_banner_container_view.xml" value="0.22871376811594202" />
-        <entry key="libuikit/src/main/res/layout/base_content_container_view.xml" value="0.21354166666666666" />
+        <entry key="libuikit/src/main/res/layout/base_content_container_view.xml" value="0.5" />
         <entry key="libuikit/src/main/res/layout/base_loadmore_context_recyclerview.xml" value="0.1" />
         <entry key="ui/src/main/res/drawable-night/bg_ongoing_join_now_event_ripple.xml" value="0.4087179487179487" />
         <entry key="ui/src/main/res/drawable-night/bg_upcoming_join_now_event_ripple.xml" value="0.4087179487179487" />
