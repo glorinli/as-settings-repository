@@ -37,6 +37,7 @@
         <entry key="ui/src/main/res/layout/group_text_profile_fragment.xml" value="0.20989583333333334" />
         <entry key="ui/src/main/res/layout/home_activity.xml" value="0.3134057971014493" />
         <entry key="ui/src/main/res/layout/home_group_item.xml" value="0.375" />
+        <entry key="ui/src/main/res/layout/home_group_list_fragment.xml" value="0.36151079136690645" />
         <entry key="ui/src/main/res/layout/home_search_app_bar_view.xml" value="0.1984375" />
         <entry key="ui/src/main/res/layout/home_search_fragment.xml" value="0.1945288753799392" />
         <entry key="ui/src/main/res/layout/join_now_list_event_item.xml" value="0.1945288753799392" />
