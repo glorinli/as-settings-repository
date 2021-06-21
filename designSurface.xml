@@ -19,9 +19,9 @@
         <entry key="ui/src/main/res/drawable/huddle_status_background.xml" value="0.4" />
         <entry key="ui/src/main/res/drawable/ic_huddle_status.xml" value="0.4087179487179487" />
         <entry key="ui/src/main/res/drawable/shape_huddle_status.xml" value="0.4087179487179487" />
-        <entry key="ui/src/main/res/layout-land/activate_your_account_activity.xml" value="0.3386243386243386" />
+        <entry key="ui/src/main/res/layout-land/activate_your_account_activity.xml" value="0.34925093632958804" />
         <entry key="ui/src/main/res/layout-sw620dp-land/activate_your_account_activity.xml" value="0.2570281124497992" />
-        <entry key="ui/src/main/res/layout/activate_your_account_activity.xml" value="0.4" />
+        <entry key="ui/src/main/res/layout/activate_your_account_activity.xml" value="0.5" />
         <entry key="ui/src/main/res/layout/calendar_pre_selection_layout.xml" value="0.1897644927536232" />
         <entry key="ui/src/main/res/layout/common_pinned_header_view.xml" value="0.21354166666666666" />
         <entry key="ui/src/main/res/layout/contact_calendar_duplicate_item_view.xml" value="0.6595079876217065" />
