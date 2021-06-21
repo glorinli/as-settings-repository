@@ -15,6 +15,7 @@
         <entry key="ui/src/main/res/drawable/bg_active_meeting_info.xml" value="0.5" />
         <entry key="ui/src/main/res/drawable/bg_ongoing_join_now_event_ripple.xml" value="0.4087179487179487" />
         <entry key="ui/src/main/res/drawable/bg_rect_snow_ripple.xml" value="0.4087179487179487" />
+        <entry key="ui/src/main/res/drawable/bg_secondary_button_ripple.xml" value="0.5" />
         <entry key="ui/src/main/res/drawable/bg_upcoming_join_now_event_ripple.xml" value="0.4087179487179487" />
         <entry key="ui/src/main/res/drawable/huddle_status_background.xml" value="0.4" />
         <entry key="ui/src/main/res/drawable/ic_huddle_status.xml" value="0.4087179487179487" />
