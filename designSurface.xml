@@ -34,7 +34,7 @@
         <entry key="ui/src/main/res/layout/contacts_selector_fragment.xml" value="0.22447916666666667" />
         <entry key="ui/src/main/res/layout/error_banner_item_view.xml" value="0.22760416666666666" />
         <entry key="ui/src/main/res/layout/favorite_contacts_horizontal_add_item.xml" value="0.22871376811594202" />
-        <entry key="ui/src/main/res/layout/fragment_huddle_status.xml" value="0.2453125" />
+        <entry key="ui/src/main/res/layout/fragment_huddle_status.xml" value="0.5" />
         <entry key="ui/src/main/res/layout/group_profile_fragment.xml" value="0.24479166666666666" />
         <entry key="ui/src/main/res/layout/group_text_profile_fragment.xml" value="0.20989583333333334" />
         <entry key="ui/src/main/res/layout/home_activity.xml" value="0.3134057971014493" />
