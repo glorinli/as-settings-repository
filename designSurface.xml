@@ -24,6 +24,7 @@
         <entry key="ui/src/main/res/drawable/huddle_status_background.xml" value="0.5" />
         <entry key="ui/src/main/res/drawable/ic_huddle_status.xml" value="0.4087179487179487" />
         <entry key="ui/src/main/res/drawable/shape_huddle_status.xml" value="0.4087179487179487" />
+        <entry key="ui/src/main/res/drawable/whats_new_button_background.xml" value="0.5" />
         <entry key="ui/src/main/res/layout-land/activate_your_account_activity.xml" value="0.34925093632958804" />
         <entry key="ui/src/main/res/layout-sw620dp-land/activate_your_account_activity.xml" value="0.2570281124497992" />
         <entry key="ui/src/main/res/layout/activate_your_account_activity.xml" value="0.5" />
