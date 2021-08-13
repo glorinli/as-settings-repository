@@ -76,8 +76,8 @@
         <entry key="ui/src/main/res/layout/whats_new_activity.xml" value="0.4496487119437939" />
         <entry key="ui/src/main/res/layout/whats_new_improvements.xml" value="0.4496487119437939" />
         <entry key="ui/src/main/res/layout/whats_new_item.xml" value="0.4496487119437939" />
-        <entry key="ui/src/main/res/layout/whats_new_key_item.xml" value="0.34125" />
-        <entry key="ui/src/main/res/layout/whats_new_normal_item.xml" value="0.34125" />
+        <entry key="ui/src/main/res/layout/whats_new_key_item.xml" value="0.4496487119437939" />
+        <entry key="ui/src/main/res/layout/whats_new_normal_item.xml" value="0.5" />
         <entry key="ui/src/main/res/layout/whats_new_section_header.xml" value="0.49910071942446044" />
         <entry key="ui/src/main/res/layout/whats_new_version_header.xml" value="0.4496487119437939" />
         <entry key="ui/src/main/res/layout/whats_new_version_history_footer.xml" value="0.49910071942446044" />
