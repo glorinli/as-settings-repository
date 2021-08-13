@@ -79,6 +79,7 @@
         <entry key="ui/src/main/res/layout/whats_new_normal_item.xml" value="0.34125" />
         <entry key="ui/src/main/res/layout/whats_new_section_header.xml" value="0.49910071942446044" />
         <entry key="ui/src/main/res/layout/whats_new_version_header.xml" value="0.4496487119437939" />
+        <entry key="ui/src/main/res/layout/whats_new_version_history_footer.xml" value="0.49910071942446044" />
         <entry key="ui/src/main/res/xml/debug_settings_preferences.xml" value="0.1796875" />
         <entry key="ui/src/main/res/xml/rcv_audio_and_video_preferences.xml" value="0.4" />
       </map>
