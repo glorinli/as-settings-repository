@@ -9,11 +9,23 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="newrobot" value="import com.glip.ut.base.BaseGivenRobot&#10;import com.glip.ut.base.BaseThenRobot&#10;import com.glip.ut.base.BaseWhenRobot&#10;&#10;class $PREFIX$GivenRobot : BaseGivenRobot() {&#10;    infix fun launch(block: $PREFIX$WhenRobot.() -&gt; Unit): $PREFIX$WhenRobot {&#10;        return $PREFIX$WhenRobot().apply(block)&#10;    }&#10;}&#10;&#10;class $PREFIX$WhenRobot : BaseWhenRobot() {&#10;    infix fun check(block: $PREFIX$ThenRobot.() -&gt; Unit): $PREFIX$ThenRobot {&#10;        return $PREFIX$ThenRobot().apply(block)&#10;    }&#10;}&#10;&#10;class $PREFIX$ThenRobot : BaseThenRobot() {&#10;&#10;}" description="New test robot" toReformat="false" toShortenFQNames="true">
+  <template name="newrobot" value="import com.glip.ut.base.BaseGivenRobot&#10;import com.glip.ut.base.BaseThenRobot&#10;import com.glip.ut.base.BaseWhenRobot&#10;import com.glip.ut.base.RobotScenario&#10;&#10;class $PREFIX$GivenRobot : BaseGivenRobot() {&#10;    infix fun launch(block: $PREFIX$WhenRobot.() -&gt; Unit): $PREFIX$WhenRobot {&#10;        return $PREFIX$WhenRobot().apply(block)&#10;    }&#10;}&#10;&#10;class $PREFIX$WhenRobot(rs: RobotScenario) : BaseWhenRobot(rs) {&#10;    infix fun check(block: $PREFIX$ThenRobot.() -&gt; Unit): $PREFIX$ThenRobot {&#10;        return $PREFIX$ThenRobot(robotScenario).apply(block)&#10;    }&#10;}&#10;&#10;class $PREFIX$ThenRobot(rs: RobotScenario) : BaseThenRobot(rs) {&#10;&#10;}" description="New test robot" toReformat="false" toShortenFQNames="true">
     <variable name="PREFIX" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
       <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+  <template name="dtag" value="private const val TAG = &quot;$CLASSNAME$&quot;" description="Define a tag" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_OBJECT_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="llog" value="android.util.Log.e(&quot;lgr&gt;&gt;&quot;, &quot;$METHOD_NAME$&quot;)" description="Log with lgr tag" toReformat="false" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
 </templateSet>
