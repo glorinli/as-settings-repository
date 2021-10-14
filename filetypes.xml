@@ -12,7 +12,9 @@
       <mapping pattern="connected" type="PLAIN_TEXT" />
       <mapping pattern="lama_home_fake_data" type="PLAIN_TEXT" />
       <mapping pattern="IssueRegistry" type="PLAIN_TEXT" />
+      <mapping pattern=".nodiffcoverage-for-mthor" type="PLAIN_TEXT" />
       <mapping pattern="webpmux_utils.c" type="PLAIN_TEXT" />
+      <mapping pattern=".nodiffcoverage-for-rcv" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
