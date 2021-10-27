@@ -7,14 +7,12 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".nodiffcoverage" type="PLAIN_TEXT" />
+      <mapping pattern="webpmux_utils.c" type="PLAIN_TEXT" />
       <mapping pattern="ybb_bottom_left_right_corner_yq_orange_a_005.xml" type="PLAIN_TEXT" />
       <mapping pattern="filtershow_state_button_background" type="PLAIN_TEXT" />
       <mapping pattern="connected" type="PLAIN_TEXT" />
       <mapping pattern="lama_home_fake_data" type="PLAIN_TEXT" />
       <mapping pattern="IssueRegistry" type="PLAIN_TEXT" />
-      <mapping pattern=".nodiffcoverage-for-mthor" type="PLAIN_TEXT" />
-      <mapping pattern="webpmux_utils.c" type="PLAIN_TEXT" />
-      <mapping pattern=".nodiffcoverage-for-rcv" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
