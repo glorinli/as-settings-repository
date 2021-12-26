@@ -2,9 +2,10 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;Thumbs.db;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="CorelibAOP.kt" type="AUTO_DETECTED" />
       <mapping pattern="MediaMetadataUtil" type="CLASS" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".nodiffcoverage" type="PLAIN_TEXT" />
       <mapping pattern=".nodiffcoverage_video" type="PLAIN_TEXT" />
       <mapping pattern="ybb_bottom_left_right_corner_yq_orange_a_005.xml" type="PLAIN_TEXT" />
