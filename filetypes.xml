@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="CorelibAOP.kt" type="AUTO_DETECTED" />
       <mapping pattern="MediaMetadataUtil" type="CLASS" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".nodiffcoverage" type="PLAIN_TEXT" />
       <mapping pattern=".nodiffcoverage_video" type="PLAIN_TEXT" />
