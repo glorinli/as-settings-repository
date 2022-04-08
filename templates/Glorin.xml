@@ -27,7 +27,7 @@
       <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="llog" value="android.util.Log.e(&quot;lgr&gt;&gt;&quot;, &quot;$METHOD_NAME$&quot;);" description="Log with lgr tag" toReformat="false" toShortenFQNames="true">
+  <template name="llog" value="android.util.Log.e(&quot;glorin&gt;&gt;&quot;, &quot;$METHOD_NAME$&quot;);" description="Log with lgr tag" toReformat="false" toShortenFQNames="true">
     <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_STATEMENT" value="true" />
