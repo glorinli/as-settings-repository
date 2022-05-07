@@ -8,10 +8,22 @@
             <value value="8CHX1P8A4" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-06T08:15:50.896026Z" />
+        <lastOnlineTime value="2022-05-07T08:24:15.658488Z" />
         <name value="Google Pixel 3" />
         <target value="Android 12.0" />
         <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="127.0.0.1:62001" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-07T08:24:15.661794Z" />
+        <name value="samsung SM-G9550" />
+        <target value="Android 7.1.1" />
+        <api value="25" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -45,17 +57,6 @@
         <name value="motorola XT2175-2" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="127.0.0.1:62001" />
-          </Key>
-        </key>
-        <name value="samsung SM-G9550" />
-        <target value="Android 7.1.1" />
-        <api value="25" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
