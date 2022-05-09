@@ -5,9 +5,21 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="fe686d7b" />
+          </Key>
+        </key>
+        <name value="Xiaomi MI 5s Plus" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="8CHX1P8A4" />
           </Key>
         </key>
+        <lastOnlineTime value="2022-05-09T02:21:50.860537Z" />
         <name value="Google Pixel 3" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -22,17 +34,6 @@
         <name value="samsung SM-G9550" />
         <target value="Android 7.1.1" />
         <api value="25" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="fe686d7b" />
-          </Key>
-        </key>
-        <name value="Xiaomi MI 5s Plus" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
