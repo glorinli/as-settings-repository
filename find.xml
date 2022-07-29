@@ -20,10 +20,10 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
-    <mask>*.gradle</mask>
     <mask>*.xml</mask>
     <mask>*.kotlin</mask>
     <mask>*.sh</mask>
     <mask>AndroidManifest.xml</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
