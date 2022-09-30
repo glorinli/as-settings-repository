@@ -4,7 +4,6 @@
     <extensionMap>
       <mapping pattern="CorelibAOP.kt" type="AUTO_DETECTED" />
       <mapping pattern="MediaMetadataUtil" type="CLASS" />
-      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="webpmux_utils.c" type="PLAIN_TEXT" />
@@ -21,10 +20,10 @@
       <mapping ext="keystore" type="PLAIN_TEXT" />
       <mapping ext="ogg" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="Shrinker Config File" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="li" approved="true" type="Layout Inspector" />
       <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
