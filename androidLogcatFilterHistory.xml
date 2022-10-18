@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="start u0" />
+    <option name="mostRecentlyUsed" value="onetrust get should show banner" />
     <option name="nonFavorites">
       <list>
+        <option value="onetrust get should show banner" />
         <option value="start u0" />
         <option value="ActivityTaskManager " />
         <option value="level:error " />
