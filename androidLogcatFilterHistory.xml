@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onetrust get should show banner" />
+    <option name="mostRecentlyUsed" value="processMessageSync" />
     <option name="nonFavorites">
       <list>
+        <option value="processMessageSync" />
+        <option value="airship" />
         <option value="onetrust get should show banner" />
         <option value="start u0" />
         <option value="ActivityTaskManager " />
