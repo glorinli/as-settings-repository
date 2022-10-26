@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="processMessageSync" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="leakcanary" />
+        <option value="ActivityTaskManager:" />
         <option value="processMessageSync" />
         <option value="airship" />
         <option value="onetrust get should show banner" />
