@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="webview" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
-        <option value="webview" />
         <option value="fatal" />
+        <option value="webview" />
         <option value="glorin&gt;&gt;" />
         <option value="start u0" />
         <option value="leakcanary" />
