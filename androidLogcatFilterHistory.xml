@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="isRcAccount:" />
     <option name="nonFavorites">
       <list>
+        <option value="isRcAccount:" />
+        <option value="MEF-67758" />
         <option value="glorin&gt;&gt;" />
         <option value="webview" />
         <option value="fatal" />
