@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="RecommendedItemsKey" />
+    <option name="mostRecentlyUsed" value="level:error " />
     <option name="nonFavorites">
       <list>
+        <option value="level:error " />
+        <option value="fatal" />
         <option value="RecommendedItemsKey" />
         <option value="ResourceCenterUtil" />
         <option value="Waiting for feature manager" />
@@ -13,7 +15,6 @@
         <option value="MEF-67758" />
         <option value="glorin&gt;&gt;" />
         <option value="webview" />
-        <option value="fatal" />
         <option value="start u0" />
         <option value="leakcanary" />
         <option value="ActivityTaskManager:" />
@@ -21,7 +22,6 @@
         <option value="airship" />
         <option value="onetrust get should show banner" />
         <option value="ActivityTaskManager " />
-        <option value="level:error " />
         <option value="package:mine" />
       </list>
     </option>
