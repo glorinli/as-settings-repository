@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="level:error " />
+    <option name="mostRecentlyUsed" value="FeatureManagerHelper" />
     <option name="nonFavorites">
       <list>
+        <option value="FeatureManagerHelper" />
         <option value="level:error " />
         <option value="fatal" />
         <option value="RecommendedItemsKey" />
@@ -22,7 +23,6 @@
         <option value="airship" />
         <option value="onetrust get should show banner" />
         <option value="ActivityTaskManager " />
-        <option value="package:mine" />
       </list>
     </option>
   </component>
