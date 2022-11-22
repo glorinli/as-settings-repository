@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="MsgRecordStore" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="MsgRecordStore" />
         <option value="start proc" />
         <option value="FeatureManagerHelper" />
         <option value="level:error " />
-        <option value="fatal" />
         <option value="RecommendedItemsKey" />
         <option value="ResourceCenterUtil" />
         <option value="Waiting for feature manager" />
