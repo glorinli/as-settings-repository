@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="addMessageRecord" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="addMessageRecord" />
         <option value="start proc" />
-        <option value="fatal" />
         <option value="MsgRecordStore" />
         <option value="FeatureManagerHelper" />
         <option value="level:error " />
