@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="webview" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="webview" />
         <option value="StacktraceCapturerImpl" />
-        <option value="fatal" />
         <option value="addMessageRecord" />
         <option value="start proc" />
         <option value="MsgRecordStore" />
