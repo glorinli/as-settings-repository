@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="StacktraceCapturerImpl" />
+    <option name="mostRecentlyUsed" value="webview" />
     <option name="nonFavorites">
       <list>
+        <option value="webview" />
         <option value="StacktraceCapturerImpl" />
         <option value="fatal" />
         <option value="addMessageRecord" />
@@ -19,7 +20,6 @@
         <option value="Recommended" />
         <option value="MEF-67758" />
         <option value="glorin&gt;&gt;" />
-        <option value="webview" />
         <option value="start u0" />
         <option value="leakcanary" />
         <option value="ActivityTaskManager:" />
