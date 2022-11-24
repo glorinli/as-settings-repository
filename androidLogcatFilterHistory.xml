@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fatal" />
+    <option name="mostRecentlyUsed" value="StacktraceCapturerImpl" />
     <option name="nonFavorites">
       <list>
+        <option value="StacktraceCapturerImpl" />
         <option value="fatal" />
         <option value="addMessageRecord" />
         <option value="start proc" />
@@ -22,7 +23,6 @@
         <option value="start u0" />
         <option value="leakcanary" />
         <option value="ActivityTaskManager:" />
-        <option value="processMessageSync" />
       </list>
     </option>
   </component>
