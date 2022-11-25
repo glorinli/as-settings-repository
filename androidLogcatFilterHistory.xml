@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fatal" />
+    <option name="mostRecentlyUsed" value="package: com.glip.mobile.qa" />
     <option name="nonFavorites">
       <list>
+        <option value="package: com.glip.mobile.qa" />
         <option value="fatal" />
         <option value="webview" />
         <option value="StacktraceCapturerImpl" />
@@ -22,7 +23,6 @@
         <option value="glorin&gt;&gt;" />
         <option value="start u0" />
         <option value="leakcanary" />
-        <option value="ActivityTaskManager:" />
       </list>
     </option>
   </component>
