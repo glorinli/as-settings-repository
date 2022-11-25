@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package: com.glip.mobile.qa" />
+    <option name="mostRecentlyUsed" value="webview" />
     <option name="nonFavorites">
       <list>
+        <option value="webview" />
         <option value="package: com.glip.mobile.qa" />
         <option value="fatal" />
-        <option value="webview" />
         <option value="StacktraceCapturerImpl" />
         <option value="addMessageRecord" />
         <option value="start proc" />
