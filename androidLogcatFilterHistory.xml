@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="webview" />
+    <option name="mostRecentlyUsed" value="glip" />
     <option name="nonFavorites">
       <list>
+        <option value="glip" />
         <option value="webview" />
         <option value="package: com.glip.mobile.qa" />
         <option value="fatal" />
@@ -22,7 +23,6 @@
         <option value="MEF-67758" />
         <option value="glorin&gt;&gt;" />
         <option value="start u0" />
-        <option value="leakcanary" />
       </list>
     </option>
   </component>
