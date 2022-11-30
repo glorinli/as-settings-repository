@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Start u0" />
+    <option name="mostRecentlyUsed" value="dogfooding" />
     <option name="nonFavorites">
       <list>
+        <option value="dogfooding" />
         <option value="Start u0" />
         <option value="onActivityDestroyed" />
         <option value="glip" />
@@ -22,7 +23,6 @@
         <option value="RecommendItemsKey" />
         <option value="isRcAccount:" />
         <option value="Recommended" />
-        <option value="MEF-67758" />
       </list>
     </option>
   </component>
