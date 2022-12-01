@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="webview" />
     <option name="nonFavorites">
       <list>
+        <option value="webview" />
         <option value="dogfooding" />
         <option value="Start u0" />
         <option value="onActivityDestroyed" />
         <option value="glip" />
-        <option value="webview" />
         <option value="package: com.glip.mobile.qa" />
         <option value="fatal" />
         <option value="StacktraceCapturerImpl" />
