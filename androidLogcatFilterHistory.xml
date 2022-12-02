@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="webview" />
+    <option name="mostRecentlyUsed" value="Use cached value for" />
     <option name="nonFavorites">
       <list>
+        <option value="Use cached value for" />
+        <option value="glorin&gt;&gt;" />
         <option value="webview" />
         <option value="dogfooding" />
         <option value="Start u0" />
@@ -21,8 +23,6 @@
         <option value="Waiting for feature manager" />
         <option value="Waiting for" />
         <option value="RecommendItemsKey" />
-        <option value="isRcAccount:" />
-        <option value="Recommended" />
       </list>
     </option>
   </component>
