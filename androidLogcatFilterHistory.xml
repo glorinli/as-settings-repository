@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Use cached value for" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
+        <option value="package:com.glip.mobile.qa " />
+        <option value="level:warn package:com.glip.mobile.qa " />
+        <option value="level:warn " />
         <option value="Use cached value for" />
         <option value="glorin&gt;&gt;" />
         <option value="webview" />
@@ -11,7 +15,6 @@
         <option value="onActivityDestroyed" />
         <option value="glip" />
         <option value="package: com.glip.mobile.qa" />
-        <option value="fatal" />
         <option value="StacktraceCapturerImpl" />
         <option value="addMessageRecord" />
         <option value="start proc" />
@@ -20,9 +23,6 @@
         <option value="level:error " />
         <option value="RecommendedItemsKey" />
         <option value="ResourceCenterUtil" />
-        <option value="Waiting for feature manager" />
-        <option value="Waiting for" />
-        <option value="RecommendItemsKey" />
       </list>
     </option>
   </component>
