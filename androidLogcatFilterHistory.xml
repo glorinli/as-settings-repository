@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="webview" />
     <option name="nonFavorites">
       <list>
+        <option value="webview" />
         <option value="glorin&gt;&gt;" />
         <option value="fatal" />
         <option value="package:com.glip.mobile.qa " />
         <option value="level:warn package:com.glip.mobile.qa " />
         <option value="level:warn " />
         <option value="Use cached value for" />
-        <option value="webview" />
         <option value="dogfooding" />
         <option value="Start u0" />
         <option value="onActivityDestroyed" />
