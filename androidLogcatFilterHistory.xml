@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="webview" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="webview" />
         <option value="glorin&gt;&gt;" />
-        <option value="fatal" />
         <option value="package:com.glip.mobile.qa " />
         <option value="level:warn package:com.glip.mobile.qa " />
         <option value="level:warn " />
