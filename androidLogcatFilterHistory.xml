@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.glip.mobile.qa " />
+    <option name="mostRecentlyUsed" value="BaseUnityWebActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="BaseUnityWebActivity" />
+        <option value="url:" />
+        <option value="BaseUnifyWebActivity" />
         <option value="package:com.glip.mobile.qa " />
         <option value="fatal" />
         <option value="webview" />
@@ -20,9 +23,6 @@
         <option value="start proc" />
         <option value="MsgRecordStore" />
         <option value="FeatureManagerHelper" />
-        <option value="level:error " />
-        <option value="RecommendedItemsKey" />
-        <option value="ResourceCenterUtil" />
       </list>
     </option>
   </component>
