@@ -1,14 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BaseUnityWebActivity" />
+    <option name="mostRecentlyUsed" value="webview" />
     <option name="nonFavorites">
       <list>
+        <option value="webview" />
         <option value="BaseUnityWebActivity" />
         <option value="url:" />
         <option value="BaseUnifyWebActivity" />
         <option value="package:com.glip.mobile.qa " />
         <option value="fatal" />
-        <option value="webview" />
         <option value="glorin&gt;&gt;" />
         <option value="level:warn package:com.glip.mobile.qa " />
         <option value="level:warn " />
