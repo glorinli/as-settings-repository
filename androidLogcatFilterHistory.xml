@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="webview" />
+    <option name="mostRecentlyUsed" value="HomeNavigationItems" />
     <option name="nonFavorites">
       <list>
+        <option value="HomeNavigationItems" />
         <option value="webview" />
         <option value="BaseUnityWebActivity" />
         <option value="url:" />
@@ -22,7 +23,6 @@
         <option value="addMessageRecord" />
         <option value="start proc" />
         <option value="MsgRecordStore" />
-        <option value="FeatureManagerHelper" />
       </list>
     </option>
   </component>
