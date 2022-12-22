@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Refresh badge:" />
+    <option name="mostRecentlyUsed" value="HomePhonePageFragment" />
     <option name="nonFavorites">
       <list>
+        <option value="HomePhonePageFragment" />
         <option value="Refresh badge:" />
         <option value="fatal" />
         <option value="HomeNavigationItems" />
@@ -22,7 +23,6 @@
         <option value="package: com.glip.mobile.qa" />
         <option value="StacktraceCapturerImpl" />
         <option value="addMessageRecord" />
-        <option value="start proc" />
       </list>
     </option>
   </component>
