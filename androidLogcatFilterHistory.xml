@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fatal" />
+    <option name="mostRecentlyUsed" value="Refresh badge:" />
     <option name="nonFavorites">
       <list>
+        <option value="Refresh badge:" />
         <option value="fatal" />
         <option value="HomeNavigationItems" />
         <option value="webview" />
@@ -22,7 +23,6 @@
         <option value="StacktraceCapturerImpl" />
         <option value="addMessageRecord" />
         <option value="start proc" />
-        <option value="MsgRecordStore" />
       </list>
     </option>
   </component>
