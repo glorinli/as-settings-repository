@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="start u0" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="start u0" />
         <option value="MissedCallBadgeUseCase" />
         <option value="HomePhonePageFragment" />
         <option value="Refresh badge:" />
-        <option value="fatal" />
         <option value="HomeNavigationItems" />
         <option value="webview" />
         <option value="BaseUnityWebActivity" />
