@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fatal" />
+    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
     <option name="nonFavorites">
       <list>
         <option value="glorin&gt;&gt;" />
+        <option value="level:warn package:com.glip.mobile.qa " />
         <option value="fatal" />
         <option value="start u0" />
         <option value="MissedCallBadgeUseCase" />
@@ -15,7 +16,6 @@
         <option value="url:" />
         <option value="BaseUnifyWebActivity" />
         <option value="package:com.glip.mobile.qa " />
-        <option value="level:warn package:com.glip.mobile.qa " />
         <option value="level:warn " />
         <option value="Use cached value for" />
         <option value="dogfooding" />
