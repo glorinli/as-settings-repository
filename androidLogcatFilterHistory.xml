@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="glorin&gt;&gt;" />
         <option value="level:warn package:com.glip.mobile.qa " />
-        <option value="fatal" />
         <option value="start u0" />
         <option value="MissedCallBadgeUseCase" />
         <option value="HomePhonePageFragment" />
