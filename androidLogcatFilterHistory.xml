@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fatal" />
+    <option name="mostRecentlyUsed" value="SharedAudioPlayer" />
     <option name="nonFavorites">
       <list>
+        <option value="SharedAudioPlayer" />
+        <option value="package:com.glip.mobile.qa " />
         <option value="fatal" />
         <option value="glorin&gt;&gt;" />
         <option value="level:warn package:com.glip.mobile.qa " />
@@ -15,14 +17,12 @@
         <option value="BaseUnityWebActivity" />
         <option value="url:" />
         <option value="BaseUnifyWebActivity" />
-        <option value="package:com.glip.mobile.qa " />
         <option value="level:warn " />
         <option value="Use cached value for" />
         <option value="dogfooding" />
         <option value="Start u0" />
         <option value="onActivityDestroyed" />
         <option value="glip" />
-        <option value="package: com.glip.mobile.qa" />
       </list>
     </option>
   </component>
