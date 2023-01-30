@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SharedAudioPlayer" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="SharedAudioPlayer" />
         <option value="package:com.glip.mobile.qa " />
-        <option value="fatal" />
         <option value="glorin&gt;&gt;" />
         <option value="level:warn package:com.glip.mobile.qa " />
         <option value="start u0" />
