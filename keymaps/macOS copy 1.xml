@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="Flutter.Toolbar.ReloadAction" />
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="meta alt h" />
+  </action>
 </keymap>
