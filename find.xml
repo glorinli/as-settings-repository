@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="AndroidManifest.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -22,8 +23,8 @@
     <mask>*.kt</mask>
     <mask>*.kotlin</mask>
     <mask>*.sh</mask>
-    <mask>AndroidManifest.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
+    <mask>AndroidManifest.xml</mask>
   </component>
 </application>
