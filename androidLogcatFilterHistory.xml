@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fatal" />
+    <option name="mostRecentlyUsed" value="new alpha:" />
     <option name="nonFavorites">
       <list>
+        <option value="new alpha:" />
         <option value="fatal" />
         <option value="glorin&gt;&gt;" />
         <option value="SharedAudioPlayer" />
@@ -22,7 +23,6 @@
         <option value="dogfooding" />
         <option value="Start u0" />
         <option value="onActivityDestroyed" />
-        <option value="glip" />
       </list>
     </option>
   </component>
