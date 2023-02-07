@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="new alpha:" />
+    <option name="mostRecentlyUsed" value="ActivityManager" />
     <option name="nonFavorites">
       <list>
+        <option value="ActivityManager" />
+        <option value="ActivityTaskManager" />
         <option value="new alpha:" />
         <option value="fatal" />
         <option value="glorin&gt;&gt;" />
@@ -21,8 +23,6 @@
         <option value="level:warn " />
         <option value="Use cached value for" />
         <option value="dogfooding" />
-        <option value="Start u0" />
-        <option value="onActivityDestroyed" />
       </list>
     </option>
   </component>
