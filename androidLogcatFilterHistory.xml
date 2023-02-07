@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ActivityManager" />
+    <option name="mostRecentlyUsed" value="webview" />
     <option name="nonFavorites">
       <list>
+        <option value="webview" />
         <option value="ActivityManager" />
         <option value="ActivityTaskManager" />
         <option value="new alpha:" />
@@ -16,7 +17,6 @@
         <option value="HomePhonePageFragment" />
         <option value="Refresh badge:" />
         <option value="HomeNavigationItems" />
-        <option value="webview" />
         <option value="BaseUnityWebActivity" />
         <option value="url:" />
         <option value="BaseUnifyWebActivity" />
