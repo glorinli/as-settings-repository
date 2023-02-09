@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
   <action id="Flutter.Toolbar.ReloadAction" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="Vcs.ShowHistoryForBlock">
     <keyboard-shortcut first-keystroke="meta alt h" />
   </action>
