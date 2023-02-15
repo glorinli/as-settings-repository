@@ -23,6 +23,11 @@
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="ObjectiveC.oc.type.hints" />
+      </set>
+    </option>
     <option name="lastViewedProviderKeyId" value="" />
   </component>
   <component name="JetEditorOptions">
