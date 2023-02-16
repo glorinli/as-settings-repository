@@ -26,6 +26,7 @@
     <option name="disabledHintProviderIds">
       <set>
         <option value="ObjectiveC.oc.type.hints" />
+        <option value="kotlin.kotlin.lambdas.hints" />
       </set>
     </option>
     <option name="lastViewedProviderKeyId" value="" />
