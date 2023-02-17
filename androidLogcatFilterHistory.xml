@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="analytics process:com.glip.mobile.qa " />
     <option name="nonFavorites">
       <list>
+        <option value="analytics process:com.glip.mobile.qa " />
+        <option value="analytics" />
         <option value="glorin&gt;&gt;" />
         <option value="webview" />
         <option value="ActivityManager" />
@@ -21,8 +23,6 @@
         <option value="url:" />
         <option value="BaseUnifyWebActivity" />
         <option value="level:warn " />
-        <option value="Use cached value for" />
-        <option value="dogfooding" />
       </list>
     </option>
   </component>
