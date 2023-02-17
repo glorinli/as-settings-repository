@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="logEventCrumb Event process:com.glip.mobile.qa " />
     <option name="nonFavorites">
       <list>
+        <option value="Glip_Mobile_inbox_filter" />
         <option value="logEventCrumb Event process:com.glip.mobile.qa " />
         <option value="analytics process:com.glip.mobile.qa " />
         <option value="analytics" />
@@ -22,7 +23,6 @@
         <option value="HomeNavigationItems" />
         <option value="BaseUnityWebActivity" />
         <option value="url:" />
-        <option value="BaseUnifyWebActivity" />
       </list>
     </option>
   </component>
