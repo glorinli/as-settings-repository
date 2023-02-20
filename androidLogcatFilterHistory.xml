@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="logEventCrumb Event process:com.glip.mobile.qa " />
+    <option name="mostRecentlyUsed" value="ActivityTaskManager" />
     <option name="nonFavorites">
       <list>
+        <option value="ActivityTaskManager" />
         <option value="Glip_Mobile_inbox_filter" />
         <option value="logEventCrumb Event process:com.glip.mobile.qa " />
         <option value="analytics process:com.glip.mobile.qa " />
@@ -10,7 +11,6 @@
         <option value="glorin&gt;&gt;" />
         <option value="webview" />
         <option value="ActivityManager" />
-        <option value="ActivityTaskManager" />
         <option value="new alpha:" />
         <option value="fatal" />
         <option value="SharedAudioPlayer" />
