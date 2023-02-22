@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ThemeManager" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="ThemeManager" />
         <option value="DynamicAppLog" />
-        <option value="fatal" />
         <option value="ActivityTaskManager" />
         <option value="Glip_Mobile_inbox_filter" />
         <option value="logEventCrumb Event process:com.glip.mobile.qa " />
