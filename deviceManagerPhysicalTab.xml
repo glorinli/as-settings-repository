@@ -5,12 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="28f10fb0223f7ece" />
+          </Key>
+        </key>
+        <name value="samsung SM-N960U" />
+        <target value="Android 8.1" />
+        <api value="androidversion:27:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R5CT31HGBSP" />
           </Key>
         </key>
         <name value="samsung SM-S901U" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +32,7 @@
         </key>
         <name value="samsung SM-G9650" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +43,7 @@
         </key>
         <name value="motorola XT2175-2" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +54,7 @@
         </key>
         <name value="Xiaomi MI 5s Plus" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -54,7 +65,7 @@
         </key>
         <name value="Google Pixel 3" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -65,7 +76,7 @@
         </key>
         <name value="samsung SM-G9550" />
         <target value="Android 7.1.1" />
-        <api value="25" />
+        <api value="androidversion:25:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -76,7 +87,7 @@
         </key>
         <name value="Google Pixel 4a (5G)" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -87,7 +98,7 @@
         </key>
         <name value="motorola XT2175-2" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -98,7 +109,7 @@
         </key>
         <name value="samsung SM-T720" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -109,7 +120,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -120,7 +130,6 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
-        <api value="1" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
