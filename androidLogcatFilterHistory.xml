@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fatal" />
+    <option name="mostRecentlyUsed" value="ThemeManager" />
     <option name="nonFavorites">
       <list>
+        <option value="ThemeManager" />
+        <option value="DynamicAppLog" />
         <option value="fatal" />
         <option value="ActivityTaskManager" />
         <option value="Glip_Mobile_inbox_filter" />
@@ -21,8 +23,6 @@
         <option value="HomePhonePageFragment" />
         <option value="Refresh badge:" />
         <option value="HomeNavigationItems" />
-        <option value="BaseUnityWebActivity" />
-        <option value="url:" />
       </list>
     </option>
   </component>
