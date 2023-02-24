@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="SignInPresenter" />
+    <option name="mostRecentlyUsed" value="analytics" />
     <option name="nonFavorites">
       <list>
+        <option value="analytics" />
         <option value="SignInPresenter" />
         <option value="ActivityTaskManager" />
         <option value="glorin&gt;&gt;" />
@@ -12,7 +13,6 @@
         <option value="Glip_Mobile_inbox_filter" />
         <option value="logEventCrumb Event process:com.glip.mobile.qa " />
         <option value="analytics process:com.glip.mobile.qa " />
-        <option value="analytics" />
         <option value="webview" />
         <option value="ActivityManager" />
         <option value="new alpha:" />
