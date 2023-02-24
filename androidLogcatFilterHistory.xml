@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="analytics" />
+    <option name="mostRecentlyUsed" value="process:com.glip.mobile.qa " />
     <option name="nonFavorites">
       <list>
+        <option value="process:com.glip.mobile.qa " />
         <option value="analytics" />
         <option value="SignInPresenter" />
         <option value="ActivityTaskManager" />
@@ -22,7 +23,6 @@
         <option value="start u0" />
         <option value="MissedCallBadgeUseCase" />
         <option value="HomePhonePageFragment" />
-        <option value="Refresh badge:" />
       </list>
     </option>
   </component>
