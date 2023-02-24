@@ -1,17 +1,18 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fatal" />
+    <option name="mostRecentlyUsed" value="SignInPresenter" />
     <option name="nonFavorites">
       <list>
+        <option value="SignInPresenter" />
+        <option value="ActivityTaskManager" />
+        <option value="glorin&gt;&gt;" />
         <option value="fatal" />
         <option value="ThemeManager" />
         <option value="DynamicAppLog" />
-        <option value="ActivityTaskManager" />
         <option value="Glip_Mobile_inbox_filter" />
         <option value="logEventCrumb Event process:com.glip.mobile.qa " />
         <option value="analytics process:com.glip.mobile.qa " />
         <option value="analytics" />
-        <option value="glorin&gt;&gt;" />
         <option value="webview" />
         <option value="ActivityManager" />
         <option value="new alpha:" />
@@ -22,7 +23,6 @@
         <option value="MissedCallBadgeUseCase" />
         <option value="HomePhonePageFragment" />
         <option value="Refresh badge:" />
-        <option value="HomeNavigationItems" />
       </list>
     </option>
   </component>
