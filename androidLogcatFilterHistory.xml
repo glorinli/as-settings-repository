@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Login Fail" />
+    <option name="mostRecentlyUsed" value="bindAvatar" />
     <option name="nonFavorites">
       <list>
+        <option value="bindAvatar" />
         <option value="analytics" />
         <option value="Login Fail" />
         <option value="process:com.glip.mobile.qa " />
@@ -22,7 +23,6 @@
         <option value="package:com.glip.mobile.qa " />
         <option value="level:warn package:com.glip.mobile.qa " />
         <option value="start u0" />
-        <option value="MissedCallBadgeUseCase" />
       </list>
     </option>
   </component>
