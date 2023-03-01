@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Swap config items" />
+    <option name="mostRecentlyUsed" value="after sync" />
     <option name="nonFavorites">
       <list>
+        <option value="after sync" />
+        <option value="==&gt;" />
+        <option value="ShorcutsViewModel" />
         <option value="Swap config items" />
         <option value="fatal" />
         <option value="bindAvatar" />
@@ -20,9 +23,6 @@
         <option value="webview" />
         <option value="ActivityManager" />
         <option value="new alpha:" />
-        <option value="SharedAudioPlayer" />
-        <option value="package:com.glip.mobile.qa " />
-        <option value="level:warn package:com.glip.mobile.qa " />
       </list>
     </option>
   </component>
