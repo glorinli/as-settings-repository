@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="bindAvatar" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="bindAvatar" />
         <option value="analytics" />
         <option value="Login Fail" />
@@ -10,7 +11,6 @@
         <option value="SignInPresenter" />
         <option value="ActivityTaskManager" />
         <option value="glorin&gt;&gt;" />
-        <option value="fatal" />
         <option value="ThemeManager" />
         <option value="DynamicAppLog" />
         <option value="Glip_Mobile_inbox_filter" />
