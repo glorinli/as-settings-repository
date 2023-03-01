@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="after sync" />
+    <option name="mostRecentlyUsed" value="leak" />
     <option name="nonFavorites">
       <list>
+        <option value="leak" />
         <option value="after sync" />
         <option value="==&gt;" />
         <option value="ShorcutsViewModel" />
@@ -22,7 +23,6 @@
         <option value="analytics process:com.glip.mobile.qa " />
         <option value="webview" />
         <option value="ActivityManager" />
-        <option value="new alpha:" />
       </list>
     </option>
   </component>
