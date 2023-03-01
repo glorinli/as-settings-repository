@@ -1,14 +1,19 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="leak" />
+    <option name="mostRecentlyUsed" value="refreshBadges" />
     <option name="nonFavorites">
       <list>
+        <option value="refreshBadges" />
+        <option value="No update nav items" />
+        <option value="HomeActivity" />
+        <option value="HomeBadgeViewModel" />
+        <option value="Refresh badge:" />
+        <option value="fatal" />
         <option value="leak" />
         <option value="after sync" />
         <option value="==&gt;" />
         <option value="ShorcutsViewModel" />
         <option value="Swap config items" />
-        <option value="fatal" />
         <option value="bindAvatar" />
         <option value="analytics" />
         <option value="Login Fail" />
@@ -18,11 +23,6 @@
         <option value="glorin&gt;&gt;" />
         <option value="ThemeManager" />
         <option value="DynamicAppLog" />
-        <option value="Glip_Mobile_inbox_filter" />
-        <option value="logEventCrumb Event process:com.glip.mobile.qa " />
-        <option value="analytics process:com.glip.mobile.qa " />
-        <option value="webview" />
-        <option value="ActivityManager" />
       </list>
     </option>
   </component>
