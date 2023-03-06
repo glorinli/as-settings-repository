@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="logSignInFail" />
+    <option name="mostRecentlyUsed" value="FaxBadgeUseCase" />
     <option name="nonFavorites">
       <list>
+        <option value="FaxBadgeUseCase" />
         <option value="logSignInFail" />
         <option value="refreshBadges" />
         <option value="No update nav items" />
@@ -22,7 +23,6 @@
         <option value="SignInPresenter" />
         <option value="ActivityTaskManager" />
         <option value="glorin&gt;&gt;" />
-        <option value="ThemeManager" />
       </list>
     </option>
   </component>
