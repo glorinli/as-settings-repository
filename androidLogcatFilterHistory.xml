@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="glorin&gt;&gt;" />
         <option value="onTabOrderChanged" />
         <option value="PermissionName:" />
@@ -18,7 +19,6 @@
         <option value="HomeActivity" />
         <option value="HomeBadgeViewModel" />
         <option value="Refresh badge:" />
-        <option value="fatal" />
         <option value="leak" />
         <option value="after sync" />
         <option value="==&gt;" />
