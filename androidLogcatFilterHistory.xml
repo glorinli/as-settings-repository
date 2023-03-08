@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onTabOrderChanged" />
+    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
     <option name="nonFavorites">
       <list>
-        <option value="PermissionName:" />
         <option value="glorin&gt;&gt;" />
+        <option value="onTabOrderChanged" />
+        <option value="PermissionName:" />
         <option value="package:com.glip.mobile.qa" />
         <option value="package:com.glip.mobile.qa " />
         <option value="glorin" />
         <option value="FeaturePermission:" />
-        <option value="onTabOrderChanged" />
         <option value="strictmode" />
         <option value="FaxBadgeUseCase" />
         <option value="logSignInFail" />
