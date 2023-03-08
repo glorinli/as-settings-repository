@@ -1,8 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="strictmode" />
+    <option name="mostRecentlyUsed" value="package:com.glip.mobile.qa" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.glip.mobile.qa" />
+        <option value="package:com.glip.mobile.qa " />
+        <option value="glorin" />
+        <option value="glorin&gt;&gt;" />
+        <option value="FeaturePermission:" />
+        <option value="onTabOrderChanged" />
+        <option value="PermissionName:" />
         <option value="strictmode" />
         <option value="FaxBadgeUseCase" />
         <option value="logSignInFail" />
@@ -16,13 +23,6 @@
         <option value="after sync" />
         <option value="==&gt;" />
         <option value="ShorcutsViewModel" />
-        <option value="Swap config items" />
-        <option value="bindAvatar" />
-        <option value="analytics" />
-        <option value="Login Fail" />
-        <option value="process:com.glip.mobile.qa " />
-        <option value="SignInPresenter" />
-        <option value="ActivityTaskManager" />
       </list>
     </option>
   </component>
