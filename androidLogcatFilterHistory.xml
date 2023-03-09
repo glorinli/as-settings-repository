@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Refresh badge" />
+    <option name="mostRecentlyUsed" value="onTabOrderChanged" />
     <option name="nonFavorites">
       <list>
+        <option value="onTabOrderChanged" />
         <option value="Refresh badge" />
         <option value="fatal" />
         <option value="glorin&gt;&gt;" />
-        <option value="onTabOrderChanged" />
         <option value="PermissionName:" />
         <option value="package:com.glip.mobile.qa" />
         <option value="package:com.glip.mobile.qa " />
