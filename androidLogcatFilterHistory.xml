@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="onTabOrderChanged" />
+    <option name="mostRecentlyUsed" value="analytics" />
     <option name="nonFavorites">
       <list>
+        <option value="analytics" />
         <option value="onTabOrderChanged" />
         <option value="Refresh badge" />
         <option value="fatal" />
@@ -22,7 +23,6 @@
         <option value="Refresh badge:" />
         <option value="leak" />
         <option value="after sync" />
-        <option value="==&gt;" />
       </list>
     </option>
   </component>
