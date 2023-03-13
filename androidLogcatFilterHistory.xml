@@ -1,8 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="analytics" />
+    <option name="mostRecentlyUsed" value="Enter errCode" />
     <option name="nonFavorites">
       <list>
+        <option value="Glip_Mobile_inbox_edit_delete_actions" />
+        <option value="Enter errCode" />
+        <option value="Contact Info Icon Tapped" />
+        <option value="Glip_Mobile_calls_edit_delete_actions" />
+        <option value="Glip_Mobile_phone_callLogFilter" />
+        <option value="logEventCrumb Event" />
         <option value="analytics" />
         <option value="glorin&gt;&gt;" />
         <option value="fatal" />
@@ -17,12 +23,6 @@
         <option value="FaxBadgeUseCase" />
         <option value="logSignInFail" />
         <option value="refreshBadges" />
-        <option value="No update nav items" />
-        <option value="HomeActivity" />
-        <option value="HomeBadgeViewModel" />
-        <option value="Refresh badge:" />
-        <option value="leak" />
-        <option value="after sync" />
       </list>
     </option>
   </component>
