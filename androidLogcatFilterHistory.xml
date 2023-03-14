@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Glip_Mobile_inbox_edit_delete_actions" />
+    <option name="mostRecentlyUsed" value="refreshTabItems" />
     <option name="nonFavorites">
       <list>
+        <option value="refreshTabItems" />
         <option value="Enter errCode" />
         <option value="Glip_Mobile_inbox_edit_delete_actions" />
         <option value="Contact Info Icon Tapped" />
@@ -22,7 +23,6 @@
         <option value="strictmode" />
         <option value="FaxBadgeUseCase" />
         <option value="logSignInFail" />
-        <option value="refreshBadges" />
       </list>
     </option>
   </component>
