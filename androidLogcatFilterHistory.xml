@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="analytics" />
     <option name="nonFavorites">
       <list>
+        <option value="Glip_mobile_tabReorderDone" />
+        <option value="analytics" />
         <option value="refreshTabItems" />
         <option value="Enter errCode" />
         <option value="Glip_Mobile_inbox_edit_delete_actions" />
@@ -10,7 +12,6 @@
         <option value="Glip_Mobile_calls_edit_delete_actions" />
         <option value="Glip_Mobile_phone_callLogFilter" />
         <option value="logEventCrumb Event" />
-        <option value="analytics" />
         <option value="glorin&gt;&gt;" />
         <option value="fatal" />
         <option value="onTabOrderChanged" />
@@ -22,7 +23,6 @@
         <option value="FeaturePermission:" />
         <option value="strictmode" />
         <option value="FaxBadgeUseCase" />
-        <option value="logSignInFail" />
       </list>
     </option>
   </component>
