@@ -3,6 +3,8 @@
     <option name="mostRecentlyUsed" value="ActivityOrientationManager" />
     <option name="nonFavorites">
       <list>
+        <option value="START u0" />
+        <option value="ActivityTaskManager" />
         <option value="beforeStartActivity" />
         <option value="ActivityOrientationManager" />
         <option value="Glip_mobile_tabReorderDone" />
@@ -21,8 +23,6 @@
         <option value="PermissionName:" />
         <option value="package:com.glip.mobile.qa" />
         <option value="package:com.glip.mobile.qa " />
-        <option value="glorin" />
-        <option value="FeaturePermission:" />
       </list>
     </option>
   </component>
