@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="START u0" />
+    <option name="mostRecentlyUsed" value="ActivityOrientationManager" />
     <option name="nonFavorites">
       <list>
-        <option value="ActivityOrientationManager" />
         <option value="START u0" />
+        <option value="ActivityOrientationManager" />
         <option value="ActivityTaskManager" />
         <option value="beforeStartActivity" />
         <option value="Glip_mobile_tabReorderDone" />
