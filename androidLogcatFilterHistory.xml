@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="analytics" />
+    <option name="mostRecentlyUsed" value="ActivityOrientationManager" />
     <option name="nonFavorites">
       <list>
+        <option value="ActivityOrientationManager" />
         <option value="Glip_mobile_tabReorderDone" />
         <option value="analytics" />
         <option value="refreshTabItems" />
@@ -22,7 +23,6 @@
         <option value="glorin" />
         <option value="FeaturePermission:" />
         <option value="strictmode" />
-        <option value="FaxBadgeUseCase" />
       </list>
     </option>
   </component>
