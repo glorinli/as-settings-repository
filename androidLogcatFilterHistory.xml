@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="start u0" />
+    <option name="mostRecentlyUsed" value="Glip_mobile_resetToDefaultTabOrder" />
     <option name="nonFavorites">
       <list>
+        <option value="Glip_mobile_resetToDefaultTabOrder" />
         <option value="start u0" />
         <option value="ActivityOrientationManager" />
         <option value="START u0" />
@@ -22,7 +23,6 @@
         <option value="onTabOrderChanged" />
         <option value="Refresh badge" />
         <option value="PermissionName:" />
-        <option value="package:com.glip.mobile.qa" />
       </list>
     </option>
   </component>
