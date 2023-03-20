@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="START u0" />
+    <option name="mostRecentlyUsed" value="start u0" />
     <option name="nonFavorites">
       <list>
+        <option value="start u0" />
         <option value="ActivityOrientationManager" />
         <option value="START u0" />
         <option value="ActivityTaskManager" />
@@ -22,7 +23,6 @@
         <option value="Refresh badge" />
         <option value="PermissionName:" />
         <option value="package:com.glip.mobile.qa" />
-        <option value="package:com.glip.mobile.qa " />
       </list>
     </option>
   </component>
