@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Glip_mobile_resetToDefaultTabOrder" />
+    <option name="mostRecentlyUsed" value="HomeBadgeViewModel" />
     <option name="nonFavorites">
       <list>
+        <option value="HomeBadgeViewModel" />
+        <option value="refreshNavigationItems" />
         <option value="Glip_mobile_resetToDefaultTabOrder" />
         <option value="start u0" />
         <option value="ActivityOrientationManager" />
@@ -21,8 +23,6 @@
         <option value="glorin&gt;&gt;" />
         <option value="fatal" />
         <option value="onTabOrderChanged" />
-        <option value="Refresh badge" />
-        <option value="PermissionName:" />
       </list>
     </option>
   </component>
