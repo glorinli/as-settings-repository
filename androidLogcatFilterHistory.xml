@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ActivityOrientationManager" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
         <option value="ActivityOrientationManager" />
         <option value="START u0" />
         <option value="glorin&gt;&gt;" />
@@ -21,7 +22,6 @@
         <option value="Glip_Mobile_calls_edit_delete_actions" />
         <option value="Glip_Mobile_phone_callLogFilter" />
         <option value="logEventCrumb Event" />
-        <option value="fatal" />
         <option value="onTabOrderChanged" />
       </list>
     </option>
