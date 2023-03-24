@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ActivityOrientationManager" />
+    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="glorin&gt;&gt;" />
         <option value="ActivityOrientationManager" />
         <option value="START u0" />
         <option value="fatal" />
-        <option value="glorin&gt;&gt;" />
         <option value="HomeBadgeViewModel" />
         <option value="refreshNavigationItems" />
         <option value="Glip_mobile_resetToDefaultTabOrder" />
