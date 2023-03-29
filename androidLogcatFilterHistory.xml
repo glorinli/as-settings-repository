@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="BottomNavigationMoreLayout" />
     <option name="nonFavorites">
       <list>
+        <option value="BottomNavigationMoreLayout" />
+        <option value="onNavigationItemSelected item" />
+        <option value="Already in the current page" />
         <option value="fatal" />
         <option value="ActivityOrientationManager" />
         <option value="glorin&gt;&gt;" />
@@ -20,9 +23,6 @@
         <option value="Glip_Mobile_inbox_edit_delete_actions" />
         <option value="Contact Info Icon Tapped" />
         <option value="Glip_Mobile_calls_edit_delete_actions" />
-        <option value="Glip_Mobile_phone_callLogFilter" />
-        <option value="logEventCrumb Event" />
-        <option value="onTabOrderChanged" />
       </list>
     </option>
   </component>
