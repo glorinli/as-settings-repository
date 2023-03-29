@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
-        <option value="ActivityOrientationManager" />
         <option value="fatal" />
+        <option value="ActivityOrientationManager" />
         <option value="glorin&gt;&gt;" />
         <option value="START u0" />
         <option value="HomeBadgeViewModel" />
