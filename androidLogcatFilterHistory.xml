@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="FixedFilterSpinner" />
     <option name="nonFavorites">
       <list>
+        <option value="FixedFilterSpinner" />
         <option value="Nullpo" />
         <option value="fatal" />
         <option value="glorin&gt;&gt;" />
@@ -22,7 +23,6 @@
         <option value="refreshTabItems" />
         <option value="Enter errCode" />
         <option value="Glip_Mobile_inbox_edit_delete_actions" />
-        <option value="Contact Info Icon Tapped" />
       </list>
     </option>
   </component>
