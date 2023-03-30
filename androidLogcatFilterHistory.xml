@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="BottomNavigationMoreLayout" />
+    <option name="mostRecentlyUsed" value="Nullpo" />
     <option name="nonFavorites">
       <list>
+        <option value="Nullpo" />
         <option value="fatal" />
         <option value="glorin&gt;&gt;" />
         <option value="BottomNavigationMoreLayout" />
@@ -22,7 +23,6 @@
         <option value="Enter errCode" />
         <option value="Glip_Mobile_inbox_edit_delete_actions" />
         <option value="Contact Info Icon Tapped" />
-        <option value="Glip_Mobile_calls_edit_delete_actions" />
       </list>
     </option>
   </component>
