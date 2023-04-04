@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fatal" />
+    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
     <option name="nonFavorites">
       <list>
+        <option value="glorin&gt;&gt;" />
         <option value="fatal" />
         <option value="BottomNavigationMoreLayout" />
         <option value="FixedFilterSpinner" />
         <option value="Nullpo" />
-        <option value="glorin&gt;&gt;" />
         <option value="Already in the current page" />
         <option value="onNavigationItemSelected item" />
         <option value="ActivityOrientationManager" />
