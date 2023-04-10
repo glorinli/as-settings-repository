@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="ActivityOrientationManager" />
+    <option name="mostRecentlyUsed" value="Glip_Mobile_native guides" />
     <option name="nonFavorites">
       <list>
+        <option value="Glip_Mobile_native guides" />
         <option value="glorin&gt;&gt;" />
         <option value="ActivityOrientationManager" />
         <option value="Start U0" />
@@ -22,7 +23,6 @@
         <option value="Glip_mobile_tabReorderDone" />
         <option value="analytics" />
         <option value="refreshTabItems" />
-        <option value="Enter errCode" />
       </list>
     </option>
   </component>
