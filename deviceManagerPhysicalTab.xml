@@ -4,22 +4,33 @@
       <PhysicalDevice>
         <key>
           <Key>
-            <type value="DOMAIN_NAME" />
-            <value value="adb-ZY22F9HLMG-hwQNKD._adb-tls-connect._tcp." />
-          </Key>
-        </key>
-        <name value="motorola XT2175-2" />
-        <target value="Android 12.0" />
-        <api value="31" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
             <type value="SERIAL_NUMBER" />
             <value value="R5CT31HGBSP" />
           </Key>
         </key>
         <name value="samsung SM-S901U" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="354f304448513098" />
+          </Key>
+        </key>
+        <name value="samsung SM-G9650" />
+        <target value="Android 10.0" />
+        <api value="androidversion:29:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-ZY22F9HLMG-hwQNKD._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="motorola XT2175-2" />
         <target value="Android 12.0" />
         <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
@@ -33,17 +44,6 @@
         <name value="samsung SM-N960U" />
         <target value="Android 8.1" />
         <api value="androidversion:27:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="354f304448513098" />
-          </Key>
-        </key>
-        <name value="samsung SM-G9650" />
-        <target value="Android 10.0" />
-        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -141,6 +141,17 @@
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RFCRA0FBARN" />
+          </Key>
+        </key>
+        <name value="samsung SM-F9260" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
