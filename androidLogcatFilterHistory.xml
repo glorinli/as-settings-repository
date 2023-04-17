@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="Glip_Mobile_phone_inbox_tab" />
     <option name="nonFavorites">
       <list>
+        <option value="Glip_Mobile_phone_inbox_tab" />
         <option value="Glip_Mobile_native guides" />
         <option value="glorin&gt;&gt;" />
         <option value="ActivityOrientationManager" />
@@ -22,7 +23,6 @@
         <option value="beforeStartActivity" />
         <option value="Glip_mobile_tabReorderDone" />
         <option value="analytics" />
-        <option value="refreshTabItems" />
       </list>
     </option>
   </component>
