@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="Glip_Mobile_phone_inbox_tab" />
     <option name="nonFavorites">
       <list>
+        <option value="Glip_Mobile_inbox_filter" />
         <option value="Glip_Mobile_phone_inbox_tab" />
         <option value="Glip_Mobile_native guides" />
         <option value="glorin&gt;&gt;" />
@@ -22,7 +23,6 @@
         <option value="ActivityTaskManager" />
         <option value="beforeStartActivity" />
         <option value="Glip_mobile_tabReorderDone" />
-        <option value="analytics" />
       </list>
     </option>
   </component>
