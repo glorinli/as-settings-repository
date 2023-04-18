@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="Analytics" />
     <option name="nonFavorites">
       <list>
-        <option value="Analytics" />
         <option value="glorin&gt;&gt;" />
+        <option value="Analytics" />
         <option value="New text" />
         <option value="VoicemailTabCOntainer" />
         <option value="Glip_Mobile_inbox_filter" />
