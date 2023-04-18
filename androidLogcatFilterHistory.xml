@@ -1,15 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Analytics" />
+    <option name="mostRecentlyUsed" value="Start U0" />
     <option name="nonFavorites">
       <list>
+        <option value="glorin&gt;&gt;" />
         <option value="Analytics" />
         <option value="New text" />
         <option value="VoicemailTabCOntainer" />
         <option value="Glip_Mobile_inbox_filter" />
         <option value="Glip_Mobile_phone_inbox_tab" />
         <option value="Glip_Mobile_native guides" />
-        <option value="glorin&gt;&gt;" />
         <option value="ActivityOrientationManager" />
         <option value="Start U0" />
         <option value="FixedFilterSpinner" />
