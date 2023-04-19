@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="logScreenCrumb" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="SearchPresenter" />
         <option value="logScreenCrumb" />
         <option value="glorin&gt;&gt;" />
         <option value="Analytics" />
@@ -22,7 +23,6 @@
         <option value="START u0" />
         <option value="HomeBadgeViewModel" />
         <option value="refreshNavigationItems" />
-        <option value="Glip_mobile_resetToDefaultTabOrder" />
       </list>
     </option>
   </component>
