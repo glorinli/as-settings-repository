@@ -1,8 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="glorin&gt;&gt;" />
+    <option name="mostRecentlyUsed" value="package:com.glip.mobile.qa SearchResultData" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.glip.mobile.qa SearchResultData" />
+        <option value="package:com.glip.mobile.qa Search" />
+        <option value="Search" />
         <option value="SearchPresenter" />
         <option value="logScreenCrumb" />
         <option value="glorin&gt;&gt;" />
@@ -20,9 +23,6 @@
         <option value="Nullpo" />
         <option value="Already in the current page" />
         <option value="onNavigationItemSelected item" />
-        <option value="START u0" />
-        <option value="HomeBadgeViewModel" />
-        <option value="refreshNavigationItems" />
       </list>
     </option>
   </component>
