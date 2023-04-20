@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.glip.mobile.qa SearchResultData" />
+    <option name="mostRecentlyUsed" value="startSearch" />
     <option name="nonFavorites">
       <list>
+        <option value="startSearch" />
         <option value="package:com.glip.mobile.qa SearchResultData" />
         <option value="package:com.glip.mobile.qa Search" />
         <option value="Search" />
@@ -22,7 +23,6 @@
         <option value="BottomNavigationMoreLayout" />
         <option value="Nullpo" />
         <option value="Already in the current page" />
-        <option value="onNavigationItemSelected item" />
       </list>
     </option>
   </component>
