@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.glip.mobile.qa SearchResultData" />
+    <option name="mostRecentlyUsed" value="Start U0" />
     <option name="nonFavorites">
       <list>
+        <option value="Start U0" />
+        <option value="package:com.glip.mobile.qa Start u0" />
         <option value="package:com.glip.mobile.qa SearchResultData" />
         <option value="package:com.glip.mobile.qa LocalSearch" />
         <option value="startSearch" />
@@ -18,11 +20,9 @@
         <option value="Glip_Mobile_phone_inbox_tab" />
         <option value="Glip_Mobile_native guides" />
         <option value="ActivityOrientationManager" />
-        <option value="Start U0" />
         <option value="FixedFilterSpinner" />
         <option value="fatal" />
         <option value="BottomNavigationMoreLayout" />
-        <option value="Nullpo" />
       </list>
     </option>
   </component>
