@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Glip_Mobile_contact_searchTimeConsumption" />
+    <option name="mostRecentlyUsed" value="search.post" />
     <option name="nonFavorites">
       <list>
+        <option value="search.post" />
         <option value="Analytics" />
         <option value="Glip_Mobile_contact_searchTimeConsumption" />
         <option value="Start U0" />
@@ -22,7 +23,6 @@
         <option value="Glip_Mobile_native guides" />
         <option value="ActivityOrientationManager" />
         <option value="FixedFilterSpinner" />
-        <option value="fatal" />
       </list>
     </option>
   </component>
