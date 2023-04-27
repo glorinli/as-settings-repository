@@ -1,11 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="HomeMoreContentPageFragment" />
+    <option name="mostRecentlyUsed" value="logScreenCrumb Screen" />
     <option name="nonFavorites">
       <list>
+        <option value="glorin&gt;&gt;" />
+        <option value="HomeMoreContentPageFragment" />
         <option value="logScreenCrumb Screen" />
         <option value="Phone Voicemails" />
-        <option value="HomeMoreContentPageFragment" />
         <option value="search.post" />
         <option value="Analytics" />
         <option value="Glip_Mobile_contact_searchTimeConsumption" />
@@ -18,7 +19,6 @@
         <option value="Search" />
         <option value="SearchPresenter" />
         <option value="logScreenCrumb" />
-        <option value="glorin&gt;&gt;" />
         <option value="New text" />
         <option value="VoicemailTabCOntainer" />
         <option value="Glip_Mobile_inbox_filter" />
