@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="logScreenCrumb Screen" />
+    <option name="mostRecentlyUsed" value="RcAuthCodeValidationActivity" />
     <option name="nonFavorites">
       <list>
+        <option value="RcAuthCodeValidationActivity" />
         <option value="glorin&gt;&gt;" />
         <option value="HomeMoreContentPageFragment" />
         <option value="logScreenCrumb Screen" />
@@ -22,7 +23,6 @@
         <option value="New text" />
         <option value="VoicemailTabCOntainer" />
         <option value="Glip_Mobile_inbox_filter" />
-        <option value="Glip_Mobile_phone_inbox_tab" />
       </list>
     </option>
   </component>
