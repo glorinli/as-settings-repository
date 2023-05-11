@@ -1,8 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="RcAuthCodeValidationActivity" />
+    <option name="mostRecentlyUsed" value="AppLaunchPerformanceTrackerV2" />
     <option name="nonFavorites">
       <list>
+        <option value="AppLaunchPerformanceTrackerV2" />
+        <option value="trackPerformanceByStep" />
+        <option value="trace performance name" />
+        <option value="AppPerformance" />
         <option value="fatal" />
         <option value="RcAuthCodeValidationActivity" />
         <option value="glorin&gt;&gt;" />
@@ -19,10 +23,6 @@
         <option value="startSearch" />
         <option value="package:com.glip.mobile.qa Search" />
         <option value="Search" />
-        <option value="SearchPresenter" />
-        <option value="logScreenCrumb" />
-        <option value="New text" />
-        <option value="VoicemailTabCOntainer" />
       </list>
     </option>
   </component>
