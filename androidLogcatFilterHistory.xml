@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="AppLaunchPerformanceTrackerV2" />
+    <option name="mostRecentlyUsed" value="start u0" />
     <option name="nonFavorites">
       <list>
+        <option value="start u0" />
         <option value="AppLaunchPerformanceTrackerV2" />
         <option value="trackPerformanceByStep" />
         <option value="trace performance name" />
@@ -22,7 +23,6 @@
         <option value="package:com.glip.mobile.qa LocalSearch" />
         <option value="startSearch" />
         <option value="package:com.glip.mobile.qa Search" />
-        <option value="Search" />
       </list>
     </option>
   </component>
