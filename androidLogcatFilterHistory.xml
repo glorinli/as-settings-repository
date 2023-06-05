@@ -1,14 +1,15 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="start u0" />
+    <option name="mostRecentlyUsed" value="fatal" />
     <option name="nonFavorites">
       <list>
+        <option value="fatal" />
+        <option value="BottomItemIds" />
         <option value="start u0" />
         <option value="AppLaunchPerformanceTrackerV2" />
         <option value="trackPerformanceByStep" />
         <option value="trace performance name" />
         <option value="AppPerformance" />
-        <option value="fatal" />
         <option value="RcAuthCodeValidationActivity" />
         <option value="glorin&gt;&gt;" />
         <option value="HomeMoreContentPageFragment" />
@@ -22,7 +23,6 @@
         <option value="package:com.glip.mobile.qa SearchResultData" />
         <option value="package:com.glip.mobile.qa LocalSearch" />
         <option value="startSearch" />
-        <option value="package:com.glip.mobile.qa Search" />
       </list>
     </option>
   </component>
