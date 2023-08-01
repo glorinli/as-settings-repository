@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="VbgSettingsItemVisibilityUpdater" />
+    <option name="mostRecentlyUsed" value="vbgLevel=" />
     <option name="nonFavorites">
       <list>
+        <option value="vbgLevel=" />
         <option value="VbgSettingsItemVisibilityUpdater" />
         <option value="vbgLevel" />
         <option value="ActivityTaskManager" />
@@ -22,7 +23,6 @@
         <option value="search.post" />
         <option value="Analytics" />
         <option value="Glip_Mobile_contact_searchTimeConsumption" />
-        <option value="Start U0" />
       </list>
     </option>
   </component>
